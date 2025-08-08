@@ -20,7 +20,6 @@ Este projeto foi desenvolvido como parte de um desafio proposto pelo **DevClub**
 
 - HTML5
 - CSS3
-- JavaScript
 - VS Code
 
 ---
