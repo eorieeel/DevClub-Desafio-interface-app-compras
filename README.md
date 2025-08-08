@@ -1,6 +1,6 @@
 # 🚀 Projeto Desafio DevClub
 
-Este projeto foi desenvolvido como parte de um desafio proposto pelo **DevClub**, com o objetivo de praticar HTML, CSS e JavaScript. O foco foi construir uma landing page moderna, responsiva e visualmente atrativa.
+Este projeto foi desenvolvido como parte de um desafio proposto pelo **DevClub**, com o objetivo de praticar HTML e CSS O foco foi construir uma landing page moderna, responsiva e visualmente atrativa.
 
 ---
 
